@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehradMi
-- 👀 I’m interested in Game Development, Computer Graphics, Software Engineering, Machine Learning, and Cybersecurity.
-- 🌱 I’m currently learning OpenGL, Front-End Development, and CCNA 
+- 👀 I’m interested in Game Development, Computer Graphics, Software Engineering, Fron-End Development, and Machine Learning
+- 🌱 I’m currently learning Front-End Development.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... mi.mehrad.m@gmail.com
 - 😄 Pronouns: He/Him
