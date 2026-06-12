@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehradMi
-- 👀 I’m interested in Game Development, Computer Graphics, Software Engineering, Front-End Development, and anything that envolves graphics and visual effects :)
-- 🌱 I’m currently learning Front-End, Game Developement, and Low-Level Graphics Programming.
+- 👀 I’m interested in Game Development, Computer Graphics, Software and AI Engineering, Back-End Development, and anything that envolves graphics and visual effects :)
+- 🌱 I’m currently learning AI-Engineering, Game Developement, and Low-Level Graphics Programming.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:  mi.mehrad.m@gmail.com
 - 😄 Pronouns: He/Him
