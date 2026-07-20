@@ -18,7 +18,7 @@
 
 # Mehrad
 
-### AI Engineer in the making — I build systems that think, at night, on purpose.
+### AI / ML Engineer in the making — pivoting into Machine Learning Engineering & MLOps, one system at a time.
 
 [![Portfolio](https://img.shields.io/badge/Sisyphus-Portfolio_Project-6E56CF?style=for-the-badge)](#)
 [![Email](https://img.shields.io/badge/Contact-Reach_out-1A1A2E?style=for-the-badge)](#)
@@ -29,11 +29,11 @@
 
 ## About
 
-I'm a final-year CS student in Tehran, currently shipping gameplay systems for a Roblox studio by day — and every night after that, building the AI engineering foundation I'm pivoting my career toward.
+I'm a final-year CS student in Tehran, currently shipping gameplay systems for a Roblox studio by day — and every night after that, building the AI Engineering, Machine Learning Engineering, and MLOps foundation I'm pivoting my career toward. To me these aren't separate lanes — they're one continuum, from model to production system, and I'm deliberately building fluency across all three instead of specializing early.
 
 That pivot isn't a hobby project. It's a structured 14-week ML curriculum + 8-week MLOps curriculum I designed and am actively working through, alongside a real backend system I'm building from scratch to prove it: **Sisyphus**.
 
-I'm not pretending to have years of production ML experience. What I have is the engineering discipline to ship real-time systems under real constraints (networked physics, latency compensation, live production bugs), and I'm pointing that discipline directly at AI Engineering — LLM-backed backends, model serving, and the infrastructure that holds it all up.
+I'm not pretending to have years of production ML experience. What I have is the engineering discipline to ship real-time systems under real constraints (networked physics, latency compensation, live production bugs), and I'm pointing that discipline directly at building, deploying, and operating ML systems — LLM-backed backends, model serving, and the infrastructure (MLOps) that holds it all up.
 
 ```
    "The owl of Minerva spreads its wings only with the falling of the dusk."
@@ -57,8 +57,8 @@ Working through a self-designed 14-week ML curriculum + 8-week MLOps curriculum,
 Applying it directly to **Sisyphus**, a backend system with an AI Oracle layer I'm building alongside the curriculum — so every concept gets tested against real code, not just notebooks.
 
 ```
-Backend Engineering  ──▶  AI Engineering  ──▶  MLOps  ──▶  ML Infrastructure
-     (now)                  (now, hard)          (next)        (senior goal)
+Backend Eng.  ──▶  AI / ML Engineering  ──▶  MLOps  ──▶  ML Infrastructure
+   (now)              (now, hard)          (next)        (senior goal)
 ```
 
 ---
@@ -68,22 +68,40 @@ Backend Engineering  ──▶  AI Engineering  ──▶  MLOps  ──▶  ML 
 | Area | Status |
 |---|---|
 | LLM APIs, fine-tuning, backend integration | 🔵 Active — prior internship experience at an AI startup |
-| Python for ML (pandas, scikit-learn, PyTorch) | 🔵 Active — 14-week self-directed curriculum |
+| Machine Learning Engineering (pandas, scikit-learn, PyTorch) | 🔵 Active — 14-week self-directed curriculum |
 | Backend systems (Sisyphus AI Oracle layer) | 🔵 Active — in development |
-| MLOps (deployment, monitoring, pipelines) | ⚪ Queued — after ML fundamentals are solid |
+| MLOps (deployment, monitoring, CI/CD, pipelines) | ⚪ Queued — after ML fundamentals are solid |
 | Real-time / gameplay engineering | 🟢 Day job — Roblox, prior Unreal/C++ internship |
 
 ---
 
-## Toolbox
+## Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools & Environment**
+
 ![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -113,7 +131,7 @@ Backend Engineering  ──▶  AI Engineering  ──▶  MLOps  ──▶  ML 
        `---'   .    *      .    .   *
 ```
 
-If an opportunity in AI Engineering exists and you're weighing potential over polish — I'd love to talk.
+If an opportunity in AI Engineering, Machine Learning Engineering, or MLOps exists and you're weighing potential over polish — I'd love to talk.
 
 </div>
 
