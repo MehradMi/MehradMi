@@ -1,11 +1,19 @@
 <div align="center">
 
 ```
-                        _
-                       (o,o)
-                       {`"'}
-                       -"-"-
-        the owl works while the world sleeps
+              .        *          .              *
+        *          ___             .        .
+              .    /   \   .    *        *
+    .   *      .--(  ☉  )--.        .          .
+        .    *  '.___.'    .   *         .
+          *    /   |   \       .   *
+    .        (o)   |   (o)         *      .
+   *      .  Mercury Venus  \            .
+                 \    (⊕)    \   *
+              .    \  Earth   \      .
+   *   .            \   (♂)    \  Mars      *
+         .      .    \___________\
+                        night runs deepest here
 ```
 
 # Mehrad
@@ -31,13 +39,22 @@ I'm not pretending to have years of production ML experience. What I have is the
    "The owl of Minerva spreads its wings only with the falling of the dusk."
                                                     — G.W.F. Hegel
 ```
-I do my best thinking after midnight. Nyx felt like the right patron.
 
 ---
 
-## What I'm building right now
+## What I'm learning right now
 
-**Sisyphus** — a D&D-gamified productivity backend with an AI Oracle layer. Not a tutorial project — a real system I'm designing, breaking, and fixing, in parallel with my ML curriculum, on purpose, so theory and implementation stay welded together.
+Working through a self-designed 14-week ML curriculum + 8-week MLOps curriculum, built to go deep instead of wide — math foundations, classical ML, then neural nets and LLM internals, before moving into deployment and infra.
+
+| Track | Focus | Status |
+|---|---|---|
+| Math for ML | Linear algebra, calculus, probability | 🔵 In progress |
+| Classical ML | scikit-learn, model evaluation, feature engineering | 🔵 In progress |
+| Deep Learning | PyTorch, neural nets from scratch, Karpathy's Zero to Hero | ⚪ Up next |
+| LLMs in practice | Fine-tuning, prompt/context engineering, API-backed systems | 🟢 Prior internship exposure, deepening now |
+| MLOps | Model serving, monitoring, CI/CD for ML | ⚪ Queued after ML fundamentals |
+
+Applying it directly to **Sisyphus**, a backend system with an AI Oracle layer I'm building alongside the curriculum — so every concept gets tested against real code, not just notebooks.
 
 ```
 Backend Engineering  ──▶  AI Engineering  ──▶  MLOps  ──▶  ML Infrastructure
@@ -80,12 +97,6 @@ Backend Engineering  ──▶  AI Engineering  ──▶  MLOps  ──▶  ML 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehradMi&theme=midnight-purple&hide_border=true)
 
 </div>
-
----
-
-## Reading list (rebuilding the habit, one atmosphere at a time)
-
-Currently pulling inspiration from grounded psychological fiction — *Memories of Murder*, *Cure*, *Silence of the Lambs* — for a puzzle/dread game concept sitting on the back burner while AI Engineering takes priority.
 
 ---
 
