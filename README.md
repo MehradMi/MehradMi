@@ -42,8 +42,6 @@ I'm not pretending to have years of production ML experience. What I have is the
 
 ## What I'm learning right now
 
-Working through a self-designed 14-week ML curriculum + 8-week MLOps curriculum, built to go deep instead of wide — math foundations, classical ML, then neural nets and LLM internals, before moving into deployment and infra.
-
 | Track | Focus | Status |
 |---|---|---|
 | Math for ML | Linear algebra, calculus, probability | 🔵 In progress |
