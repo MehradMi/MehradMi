@@ -29,9 +29,7 @@
 
 ## About
 
-I'm a final-year CS student in Tehran, currently shipping gameplay systems for a Roblox studio by day — and every night after that, building the AI Engineering, Machine Learning Engineering, and MLOps foundation I'm pivoting my career toward. To me these aren't separate lanes — they're one continuum, from model to production system, and I'm deliberately building fluency across all three instead of specializing early.
-
-That pivot isn't a hobby project. It's a structured 14-week ML curriculum + 8-week MLOps curriculum I designed and am actively working through, alongside a real backend system I'm building from scratch to prove it: **Sisyphus**.
+I'm a final-year CS student, currently shipping gameplay systems for a Roblox studio by day — and every night after that, building the AI Engineering, Machine Learning Engineering, and MLOps foundation I'm pivoting my career toward. To me these aren't separate lanes — they're one continuum, from model to production system, and I'm deliberately building fluency across all three instead of specializing early.
 
 I'm not pretending to have years of production ML experience. What I have is the engineering discipline to ship real-time systems under real constraints (networked physics, latency compensation, live production bugs), and I'm pointing that discipline directly at building, deploying, and operating ML systems — LLM-backed backends, model serving, and the infrastructure (MLOps) that holds it all up.
 
@@ -53,13 +51,6 @@ Working through a self-designed 14-week ML curriculum + 8-week MLOps curriculum,
 | Deep Learning | PyTorch, neural nets from scratch, Karpathy's Zero to Hero | ⚪ Up next |
 | LLMs in practice | Fine-tuning, prompt/context engineering, API-backed systems | 🟢 Prior internship exposure, deepening now |
 | MLOps | Model serving, monitoring, CI/CD for ML | ⚪ Queued after ML fundamentals |
-
-Applying it directly to **Sisyphus**, a backend system with an AI Oracle layer I'm building alongside the curriculum — so every concept gets tested against real code, not just notebooks.
-
-```
-Backend Eng.  ──▶  AI / ML Engineering  ──▶  MLOps  ──▶  ML Infrastructure
-   (now)              (now, hard)          (next)        (senior goal)
-```
 
 ---
 
