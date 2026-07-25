@@ -54,18 +54,6 @@ Working through a self-designed 14-week ML curriculum + 8-week MLOps curriculum,
 
 ---
 
-## Currently focused on
-
-| Area | Status |
-|---|---|
-| LLM APIs, fine-tuning, backend integration | 🔵 Active — prior internship experience at an AI startup |
-| Machine Learning Engineering (pandas, scikit-learn, PyTorch) | 🔵 Active — 14-week self-directed curriculum |
-| Backend systems (Sisyphus AI Oracle layer) | 🔵 Active — in development |
-| MLOps (deployment, monitoring, CI/CD, pipelines) | ⚪ Queued — after ML fundamentals are solid |
-| Real-time / gameplay engineering | 🟢 Day job — Roblox, prior Unreal/C++ internship |
-
----
-
 ## Tech Stack
 
 **Languages**
