@@ -1,54 +1,72 @@
 <div align="center">
 
 ```
-              .        *          .              *
-        *          ___             .        .
-              .    /   \   .    *        *
-    .   *      .--(  ☉  )--.        .          .
-        .    *  '.___.'    .   *         .
-          *    /   |   \       .   *
-    .        (o)   |   (o)         *      .
-   *      .  Mercury Venus  \            .
-                 \    (⊕)    \   *
-              .    \  Earth   \      .
-   *   .            \   (♂)    \  Mars      *
-         .      .    \___________\
-                        night runs deepest here
+                    .        *          .              *
+              *          ___             .        .
+                    .    /   \   .    *        *
+          .   *      .--(  ☉  )--.        .          .
+              .    *  '.___.'    .   *         .
+                *    /   |   \       .   *
+          .        (o)   |   (o)         *      .
+         *      .  Mercury Venus  \            .
+                       \    (⊕)    \   *
+                    .    \  Earth   \      .
+         *   .            \   (♂)    \  Mars      *
+               .      .    \___________\
+                              night runs deepest here
 ```
 
 # Mehrad
 
-### AI / ML Engineer in the making — pivoting into Machine Learning Engineering & MLOps, one system at a time.
+### I want to be all things.
 
-[![Portfolio](https://img.shields.io/badge/Sisyphus-Portfolio_Project-6E56CF?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Contact-Reach_out-1A1A2E?style=for-the-badge)](#)
+[![Contact](https://img.shields.io/badge/Contact-Reach_out-1A1A2E?style=for-the-badge)](#)
 
 </div>
 
 ---
 
+```
+      ___________
+     /          /|
+    /__________/ |        > walking the old path...
+    |  ______  | |        > the roads through my mind are on fire
+    | |  o   | | |        > want to be all things
+    | |______| |/
+    |__________|
+```
+
 ## About
 
-I'm a final-year CS student, currently shipping gameplay systems for a Roblox studio by day — and every night after that, building the AI Engineering, Machine Learning Engineering, and MLOps foundation I'm pivoting my career toward. To me these aren't separate lanes — they're one continuum, from model to production system, and I'm deliberately building fluency across all three instead of specializing early.
+I'm a final-year CS student shipping gameplay systems for a Roblox studio, building an indie game **entirely from scratch in Odin** with no engine doing the thinking for me, and also deeply learning ML Systems and AI Engineering.
 
-I'm not pretending to have years of production ML experience. What I have is the engineering discipline to ship real-time systems under real constraints (networked physics, latency compensation, live production bugs), and I'm pointing that discipline directly at building, deploying, and operating ML systems — LLM-backed backends, model serving, and the infrastructure (MLOps) that holds it all up.
+I've stopped trying to make that resolve into one job title. What connects it isn't a category — it's a way of working. I like taking something apart until I understand every layer, then building it back up myself: a renderer, a physics step, an inference pipeline, a machine learning model, doesn't matter. I'm 22, I'm junior, I don't have years of production experience — what I have is the discipline and insane burning drive within my soul to learn and build complex systems, be it low-level graphics or a complicated ML system pipeline, etc.
 
 ```
-   "The owl of Minerva spreads its wings only with the falling of the dusk."
-                                                    — G.W.F. Hegel
+   .-.        .-.        .-.        .-.
+  (   )------(   )------(   )------(   )
+   '-'        '-'        '-'        '-'
+     \        /  \        /  \        /
+      \      /    \      /    \      /
+       game        graphics       AI/ML
+          \          |          /
+           \_________|_________/
+                     |
+                 same builder
 ```
 
 ---
 
-## What I'm learning right now
+## What I'm building & learning right now
 
 | Track | Focus | Status |
 |---|---|---|
-| Math for ML | Linear algebra, calculus, probability | 🔵 In progress |
-| Classical ML | scikit-learn, model evaluation, feature engineering | 🔵 In progress |
-| Deep Learning | PyTorch, neural nets from scratch, Karpathy's Zero to Hero | ⚪ Up next |
-| LLMs in practice | Fine-tuning, prompt/context engineering, API-backed systems | 🟢 Prior internship exposure, deepening now |
-| MLOps | Model serving, monitoring, CI/CD for ML | ⚪ Queued after ML fundamentals |
+| Solo indie game | Odin, built from scratch, minimal libraries, low-level control | 🔵 In progress |
+| Graphics programming | LearnOpenGL, TinyRenderer, software rendering fundamentals | 🟢 Ongoing, long-term |
+| AI Engineering | FastAPI backends, LLM-backed systems, prompt/context engineering | 🔵 In progress |
+| Math & Classical ML | Linear algebra, calculus, probability, scikit-learn | 🔵 In progress |
+| Deep Learning | PyTorch, neural nets from scratch | ⚪ Up next |
+| Game dev (Roblox) | Ship combat systems, client-server physics, live production | 🟢 Day job |
 
 ---
 
@@ -56,15 +74,19 @@ I'm not pretending to have years of production ML experience. What I have is the
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Odin](https://img.shields.io/badge/-Odin-1E90FF?style=flat-square&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![GLSL](https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logoColor=white)
+
+**Graphics & Systems**
+
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/-Low--Level_Rendering-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 
 **ML / AI**
 
@@ -77,8 +99,8 @@ I'm not pretending to have years of production ML experience. What I have is the
 
 ![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -98,21 +120,15 @@ I'm not pretending to have years of production ML experience. What I have is the
 <div align="center">
 
 ```
-     .     .       .  .    *  .   .    *
-  .    _____   .        .    .      .
-     .' .-. `.      .  the ambitious ones
-    /  /   \  \        chase the horizon
-   |  |     |  |    .   at 2 AM, alone,
-    \  \   /  /  .     and call it discipline.
-     `. `-' .'
-       `---'   .    *      .    .   *
+         ▲
+        ▲▲▲
+       ▲▲▲▲▲          I cannot stop, I want to be all things
+      ▲▲▲▲▲▲▲         I've got to let go, I want to be all things
+     ▲▲▲▲▲▲▲▲▲
+    ▲▲▲▲▲▲▲▲▲▲▲              — Be All Things
+   ═══════════════
 ```
 
-If an opportunity in AI Engineering, Machine Learning Engineering, or MLOps exists and you're weighing potential over polish — I'd love to talk.
+If an opportunity in AI Engineering, ML Systems, or Game/Graphics Programming exists — I'd love to talk.
 
 </div>
-
-<!---
-MehradMi/MehradMi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
