@@ -18,7 +18,7 @@
 
 # Mehrad
 
-### I want to be all things.
+### Want To Be All Things.
 
 [![Contact](https://img.shields.io/badge/Contact-Reach_out-1A1A2E?style=for-the-badge)](#)
 
